@@ -66,6 +66,11 @@ h3 {
 .food-item img{
     width: 100%;
 }
+
+.ask-any{
+    text-align: center;
+}
+
 section{
     margin-bottom: 50px;
 }
